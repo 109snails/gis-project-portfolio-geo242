@@ -15,3 +15,7 @@ Fox Gengo
 
 - [Understanding map coordinates](https://github.com/109snails/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
 - [Georeference a 1960s Miami University campus map](https://github.com/jiashenyue/geo242/blob/main/map-coordinates-basics/georeference-miami-univ-campus-map.ipynb)
+
+## Raster Data Analysis
+
+- [Band Composition for Landsat](
