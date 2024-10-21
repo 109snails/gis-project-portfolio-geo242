@@ -9,12 +9,11 @@ Fox Gengo
 ## Basic Mapping
 
 - [First map in QGIS](https://github.com/109snails/gis-project-portfolio-geo242/blob/main/basic-mapping/first-qgis-mapping.ipynb)
-- [Georeference a 1960s Miami University campus map](https://github.com/jiashenyue/geo242/blob/main/basic-mapping/age-index-mapping.ipynb)
+- [Georeference a 1960s Miami University campus map](https://github.com/109snails/gis-project-portfolio-geo242/blob/main/basic-mapping/historical-mapping.ipynb)
 
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/109snails/gis-project-portfolio-geo242/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
-(https://github.com/jiashenyue/geo242/blob/main/map-coordinates-basics/georeference-miami-univ-campus-map.ipynb)
 
 ## Raster Data Analysis
 
