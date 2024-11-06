@@ -18,3 +18,7 @@ Fox Gengo
 ## Raster Data Analysis
 
 - [Band Composition for Landsat](https://github.com/109snails/gis-project-portfolio-geo242/blob/main/raster-data-analysis/band-composition-for-landsat.ipynb)
+
+## Spatial Analysis
+
+- [Mapping Cholera Deaths](https://github.com/109snails/gis-project-portfolio-geo242/blob/main/Spatial_Analysis/mapping-cholera-deaths)
