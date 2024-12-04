@@ -21,5 +21,5 @@ Fox Gengo
 
 ## Spatial Analysis
 
-- [Mapping Cholera Deaths](https://github.com/109snails/gis-project-portfolio-geo242/blob/main/Spatial_Analysis/mapping-cholera-deaths)
+- [Mapping Cholera Deaths](https://github.com/109snails/gis-project-portfolio-geo242/blob/main/spatial-analysis/Mapping_Cholera_Deaths.ipynb)
 - [Working with US Census Data](https://github.com/109snails/gis-project-portfolio-geo242/blob/main/spatial-analysis/Working_with_US_Census_Data.ipynb)
